@@ -1,0 +1,2 @@
+# biblioteca para conectar com o banco de dados Oracle
+oracledb
